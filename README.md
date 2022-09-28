@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sseinmmbaga
-- 👀 I’m interested in website design 
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT AND PYTHON
+- 👀 I’m interested in full stack developer 
+- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT, Flutter, Dart, Php, Figma design
 - 💞️ I’m looking to collaborate on github 
 - 📫 Reach me on WhatsApp&Telegram +255756685556
 
