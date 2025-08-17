@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Sseinmmbaga
-- 👀 I’m interested in full stack developer 
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT, Flutter, Dart, Php, Figma design
+Passionate Full-Stack Developer with expertise in building modern web and mobile applications. I leverage skills in both front-end (HTML5, JavaScript, CSS, Flutter) and back-end development (Dart, PHP, Node.js) to create user-friendly and data-driven experiences. Strong understanding of database management (MySQL, Firebase), cloud services (AWS), and Linux systems. Experienced in robotics programming and thriving on challenges to create innovative solutions.
 - 💞️ I’m looking to collaborate on github 
 - 📫 Reach me on WhatsApp&Telegram +255756685556
 
